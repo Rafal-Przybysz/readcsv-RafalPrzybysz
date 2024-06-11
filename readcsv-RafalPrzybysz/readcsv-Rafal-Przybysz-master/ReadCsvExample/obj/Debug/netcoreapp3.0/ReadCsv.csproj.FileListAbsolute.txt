@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\bin\Debug\netcoreapp3.0\ReadCsv.exe
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\bin\Debug\netcoreapp3.0\test.csv
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\bin\Debug\netcoreapp3.0\ReadCsv.deps.json
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\bin\Debug\netcoreapp3.0\ReadCsv.runtimeconfig.json
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\bin\Debug\netcoreapp3.0\ReadCsv.runtimeconfig.dev.json
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\bin\Debug\netcoreapp3.0\ReadCsv.dll
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\bin\Debug\netcoreapp3.0\ReadCsv.pdb
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\obj\Debug\netcoreapp3.0\ReadCsv.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\obj\Debug\netcoreapp3.0\ReadCsv.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\obj\Debug\netcoreapp3.0\ReadCsv.AssemblyInfo.cs
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\obj\Debug\netcoreapp3.0\ReadCsv.dll
+C:\Users\Student\Desktop\readcsv-Rafal-Przybysz-master\ReadCsvExample\obj\Debug\netcoreapp3.0\ReadCsv.pdb
